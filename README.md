@@ -1,6 +1,5 @@
 ###
 ###         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=williamarias4&theme=dracula&layout=compact"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
 <!--
 **williamarias4/williamarias4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
